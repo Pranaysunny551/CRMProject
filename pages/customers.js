@@ -8,7 +8,7 @@ function loadCustomers(){
         <div class="row">
             <div class="col-md-4">
                 <div class="card c-icons shadow p-3 mt-3">
-                    <img src="./images/customers-gif.GIF">
+                    <img src="../images/customers-gif.GIF">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="c-icons">
                             <a href="#Online"><img src="./images/online-icon.png"></a>
@@ -23,7 +23,7 @@ function loadCustomers(){
             </div>
             <div class="col-md-4">
                 <div class="card shadow p-3 mt-3">
-                    <img src="./images/store.GIF">
+                    <img src="../images/store.GIF">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="c-icons">
                             <a href="#Retail"><img src="./images/retail-icon.png"></a>
@@ -39,7 +39,7 @@ function loadCustomers(){
 
             <div class="col-md-4">
                 <div class="card c-icons shadow p-3 mt-3">
-                    <img src="./images/bulk-gif.JFIF">
+                    <img src="../images/bulk-gif.JFIF">
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="c-icons">
                             <a href="#Bulk"><img src="./images/bulk-icon.png"></a>
